@@ -11,4 +11,5 @@ I am a junior engineer at the Samsung Electronics working for Bixby Chatbot.
 
 ## Work Experience
 * Samsung Electronics
+  Mobile Communications
   Feb. 2017 - Present
