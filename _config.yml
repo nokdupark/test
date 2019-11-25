@@ -16,6 +16,4 @@ name                     : "Byungkeon Park"
 description              : "nokdupark"
 url                      : "https://nokdupark.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-
-theme: jekyll-theme-cayman
+repository               : "nokdupark/nokdupark.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes
